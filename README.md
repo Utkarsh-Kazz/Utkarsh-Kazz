@@ -1,4 +1,4 @@
-<h1>Hi, I'm Utkarsh, an <a href="www.linkedin.com/in/utkarsh-singh-05165434b">IT Professional</a>☺</h1>
+<h1>Hi, I'm Utkarsh, an <a href="linkedin.com/in/utkarsh-singh-05165434b">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
