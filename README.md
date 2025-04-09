@@ -5,5 +5,4 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Utkarsh-Kazz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Utkarsh-Kazz/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Utkarsh-Kazz/ticket-lifecycle)
 <h2>Let's Connect 🤳:</h2>
