@@ -10,5 +10,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Utkarsh-Kazz/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Utkarsh-Kazz/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Virtual Private Network</b>
-  - [Seting up VPN in a Virtual Machine]
+  - [Seting up VPN in a Virtual Machine](https://github.com/Utkarsh-Kazz/Seting-up-VPN-in-a-Virtual-Machine)
 <h2>Let's Connect 🤳:</h2>
